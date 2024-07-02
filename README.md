@@ -2,7 +2,7 @@
 
 ## Description
 
-The BMI Calculator is a web application built using HTML, CSS, and JavaScript. It calculates the Body Mass Index (BMI) based on user-provided height in centimeters and weight in kilograms. After entering the values and clicking on "Calculate", it displays the BMI value and provides a message indicating whether the BMI is underweight, normal, or overweight based on predefined ranges.<br>
+The BMI Calculator is a web application built using **HTML, CSS, and JavaScript**. It calculates the Body Mass Index (BMI) based on user-provided height in centimeters and weight in kilograms. After entering the values and clicking on "Calculate", it displays the BMI value and provides a message indicating whether the BMI is underweight, normal, or overweight based on predefined ranges.<br>
 
 ![BMI Calculator](BMI.png)
 
