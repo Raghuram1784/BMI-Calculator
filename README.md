@@ -13,7 +13,7 @@ The BMI Calculator is a web application built using **HTML, CSS, and JavaScript*
    - Enter your weight in **kilograms**.
 
 2. **Calculate**: 
-   - Click on the "Calculate" button to determine your BMI.
+   - Click on the **"Calculate"** button to determine your BMI.
 
 3. **Output**: 
    - The BMI value will be displayed.
