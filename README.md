@@ -26,5 +26,5 @@ The BMI Calculator is a web application built using **HTML, CSS, and JavaScript*
 
 ## Installation
 
-There is no installation required to run the BMI Calculator. Simply open the `index.html` file in your web browser.
+There is no installation required to run the BMI Calculator. Simply open the **`index.html`** file in your web browser.
 
